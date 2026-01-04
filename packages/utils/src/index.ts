@@ -12,5 +12,5 @@ export function formatMessage(core: Core, message: string): string {
 export function createMultiCore(names: string[]): Core[] {
   return names.map(name => createCore(name));
 }
-
+console.log(createMultiCore(['a', 'b']));
 export const UTILS_VERSION = '0.0.0';
