@@ -1,6 +1,6 @@
 {
   "name": "@example/core",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Core functionality package",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -9,7 +9,10 @@
     "dev": "tsc --watch",
     "test": "jest"
   },
-  "keywords": ["core", "example"],
+  "keywords": [
+    "core",
+    "example"
+  ],
   "author": "",
   "license": "MIT",
   "devDependencies": {

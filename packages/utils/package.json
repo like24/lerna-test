@@ -1,6 +1,6 @@
 {
   "name": "@example/utils",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Utility functions package",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -9,7 +9,10 @@
     "dev": "tsc --watch",
     "test": "jest"
   },
-  "keywords": ["utils", "example"],
+  "keywords": [
+    "utils",
+    "example"
+  ],
   "author": "",
   "license": "MIT",
   "dependencies": {
