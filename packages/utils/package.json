@@ -1,5 +1,5 @@
 {
-  "name": "@example/utils",
+  "name": "@lerna-pnpm-workspace/utils",
   "version": "0.2.1",
   "description": "Utility functions package",
   "main": "lib/index.js",
@@ -11,12 +11,12 @@
   },
   "keywords": [
     "utils",
-    "example"
+    "lerna-pnpm-workspace"
   ],
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@example/core": "workspace:*"
+    "@lerna-pnpm-workspace/core": "workspace:*"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",

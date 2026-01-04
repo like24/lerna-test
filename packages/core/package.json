@@ -1,5 +1,5 @@
 {
-  "name": "@example/core",
+  "name": "@lerna-pnpm-workspace/core",
   "version": "0.2.0",
   "description": "Core functionality package",
   "main": "lib/index.js",
@@ -11,7 +11,7 @@
   },
   "keywords": [
     "core",
-    "example"
+    "lerna-pnpm-workspace"
   ],
   "author": "",
   "license": "MIT",

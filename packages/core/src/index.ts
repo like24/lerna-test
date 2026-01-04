@@ -21,5 +21,5 @@ export class Core {
 export function createCore(name: string): Core {
   return new Core(name);
 }
-
+console.log('hello world')
 export const VERSION = '0.0.0';
