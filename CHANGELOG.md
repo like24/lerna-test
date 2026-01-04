@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/like24/lerna-test/compare/v0.1.0...v0.2.0) (2026-01-04)
+
+
+### Features
+
+* **core:** add getUppercaseName method ([e5bd248](https://github.com/like24/lerna-test/commit/e5bd2482fc34cc380824fb60441d0746e80431df))
+
+
+
+
+
 # 0.1.0 (2026-01-04)
 
 
