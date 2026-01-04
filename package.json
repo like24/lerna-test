@@ -9,14 +9,19 @@
     "test": "lerna run test",
     "lint": "lerna run lint",
     "clean": "lerna run clean || true",
-    "version": "lerna version",
+    "version": "node scripts/version.js",
     "publish": "lerna publish",
     "bootstrap": "pnpm install"
   },
-  "keywords": ["lerna", "pnpm", "workspace"],
+  "keywords": [
+    "lerna",
+    "pnpm",
+    "workspace"
+  ],
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "dotenv": "^17.2.3",
     "lerna": "^9.0.3"
   }
 }
