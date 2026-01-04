@@ -12,6 +12,10 @@ export class Core {
   public greet(): string {
     return `Hello from ${this.name}!`;
   }
+
+  public getUppercaseName(): string {
+    return this.name.toUpperCase();
+  }
 }
 
 export function createCore(name: string): Core {
