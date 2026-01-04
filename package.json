@@ -1,0 +1,22 @@
+{
+  "name": "lerna-pnpm-workspace",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Lerna + pnpm workspace example",
+  "scripts": {
+    "build": "lerna run build",
+    "dev": "lerna run dev --parallel",
+    "test": "lerna run test",
+    "lint": "lerna run lint",
+    "clean": "lerna run clean || true",
+    "version": "lerna version",
+    "publish": "lerna publish",
+    "bootstrap": "pnpm install"
+  },
+  "keywords": ["lerna", "pnpm", "workspace"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^9.0.3"
+  }
+}

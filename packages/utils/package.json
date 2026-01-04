@@ -1,0 +1,22 @@
+{
+  "name": "@example/utils",
+  "version": "0.0.0",
+  "description": "Utility functions package",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "test": "jest"
+  },
+  "keywords": ["utils", "example"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@example/core": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
