@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/like24/lerna-test/compare/v0.2.2...v0.3.0) (2026-01-04)
+
+
+### Features
+
+* **core:** add new feature ([23b6a52](https://github.com/like24/lerna-test/commit/23b6a52c696e9bd60b712922feb54f8009814557))
+
+
+
+
+
 ## [0.2.2](https://github.com/like24/lerna-test/compare/v0.2.1...v0.2.2) (2026-01-04)
 
 **Note:** Version bump only for package lerna-pnpm-workspace

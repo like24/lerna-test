@@ -1,6 +1,6 @@
 {
   "name": "@lerna-pnpm-workspace/core",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "Core functionality package",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
